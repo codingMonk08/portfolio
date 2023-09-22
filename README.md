@@ -1,7 +1,7 @@
 # cv
 
 This is a simple readme file for my personal portfolio web page. 
-I created this web page using HTML, CSS, and JS. The web page showcases some of my projects, skills, and achievements.
+I created this web page using HTML The web page showcases some of my projects, skills, and achievements.
 It also has a contact form where you can send me a message.
 
 The web page consists of the following files:
